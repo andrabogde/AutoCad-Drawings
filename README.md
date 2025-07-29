@@ -37,6 +37,14 @@ These drawings were created as part of my **university coursework**, helping me 
 
 ---
 
+## 🖼️ Preview of the Drawings
+
+| Table Drawing | Drawing 1 | Drawing 2 |
+|---------------|-----------|-----------|
+| ![Table](images/table.png) | ![Drawing 1](images/1.png) | ![Drawing 2](images/2.png) |
+
+---
+
 ## 👩‍💻 Author
 Created by **Andra Bogde**  
 🎓 *Undergraduate Student at the Faculty of Mathematics and Computer Science, Ovidius University*  
